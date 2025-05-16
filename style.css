@@ -9,7 +9,12 @@
  text-align: center;
   height: 300px;
   font-size: 25px;
+
+
 }
+  #mainpage {
+  padding: 10px;
+    border-radius: 15px;
 body {
   font-family: "Sofia Sans Condensed", sans-serif;
 }
